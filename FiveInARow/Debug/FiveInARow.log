@@ -1,0 +1,75 @@
+﻿  pch.cpp
+  CChess.cpp
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\CChess.cpp(40,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (compiling source file '/CChess.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\CChess.cpp(40,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (compiling source file '/CChess.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\CChess.cpp(42,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (compiling source file '/CChess.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\CChess.cpp(42,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  (compiling source file '/CChess.cpp')
+  
+  CChessManager.cpp
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\CChessManager.cpp(16,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (compiling source file '/CChessManager.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\CChessManager.cpp(17,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  (compiling source file '/CChessManager.cpp')
+  
+  FiveInARow.cpp
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARow.cpp(17,1): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+  (compiling source file '/FiveInARow.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.h(45,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (compiling source file '/FiveInARow.cpp')
+  
+  FiveInARowDlg.cpp
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(17,7): error C2143: 语法错误: 缺少“;”(在“<class-head>”的前面)
+  (compiling source file '/FiveInARowDlg.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.h(45,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (compiling source file '/FiveInARowDlg.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(189,17): error C3688: 文本后缀“开始”无效；未找到文文本运算符或文本运算符模板“operator """"开始”
+  (compiling source file '/FiveInARowDlg.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(219,4): error C3861: “ShowVictoryMessage”: 找不到标识符
+  (compiling source file '/FiveInARowDlg.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(254,22): error C2039: "ShowVictoryMessage": 不是 "CFiveInARowDlg" 的成员
+  (compiling source file '/FiveInARowDlg.cpp')
+      D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.h(9,7):
+      参见“CFiveInARowDlg”的声明
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(256,15): error C2355: “this”: 只能在非静态成员函数或非静态数据成员初始值设定项的内部引用
+  (compiling source file '/FiveInARowDlg.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(256,14): error C2512: “CClientDC::CClientDC”: 没有合适的默认构造函数可用
+  (compiling source file '/FiveInARowDlg.cpp')
+      D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(256,14):
+      尝试匹配参数列表“()”时
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(260,37): error C2065: “m_FontOver”: 未声明的标识符
+  (compiling source file '/FiveInARowDlg.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(265,2): error C2065: “m_FontOver”: 未声明的标识符
+  (compiling source file '/FiveInARowDlg.cpp')
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(276,2): error C2660: “GetClientRect”: 函数不接受 1 个参数
+  (compiling source file '/FiveInARowDlg.cpp')
+      D:\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(9043,1):
+      参见“GetClientRect”的声明
+      D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(276,2):
+      尝试匹配参数列表“(CRect *)”时
+  
+D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(342,2): error C2660: “FlashWindow”: 函数不接受 1 个参数
+  (compiling source file '/FiveInARowDlg.cpp')
+      D:\Windows Kits\10\Include\10.0.26100.0\um\winuser.h(4683,1):
+      参见“FlashWindow”的声明
+      D:\Ccode\FiveInARow\FiveInARow\FiveInARow\FiveInARowDlg.cpp(342,2):
+      尝试匹配参数列表“(int)”时
+  
+  正在生成代码...
